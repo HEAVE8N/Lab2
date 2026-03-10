@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QSZmyvm9xN4=",
+  "success": true,
+  "projectFilePath": "Z:\\Documents\\GitHub\\lab2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semen\\.nuget\\packages\\fsharp.core\\9.0.303\\fsharp.core.9.0.303.nupkg.sha512"
+  ],
+  "logs": []
+}
