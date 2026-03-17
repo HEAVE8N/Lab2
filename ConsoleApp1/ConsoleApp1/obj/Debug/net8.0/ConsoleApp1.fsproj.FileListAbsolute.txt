@@ -27,3 +27,4 @@ Z:\Documents\GitHub\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Console
 Z:\Documents\GitHub\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 Z:\Documents\GitHub\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 Z:\Documents\GitHub\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+Z:\Documents\GitHub\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
