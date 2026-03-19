@@ -6,7 +6,7 @@ let getResult (input: string) (digit: char) =
     |> Array.toList
     |> List.filter (fun s -> s <> "")
     |> List.filter (fun s -> 
-        s |> Seq.forall Char.IsDigit && s.Contains(digit))
+        s |> Seq.forall Char.IsDigit && s.Contains(digit)) // мейби хуйня, сказали оставить
     |> List.fold (fun acc _ -> acc + 1) 0
 
 [<EntryPoint>]
